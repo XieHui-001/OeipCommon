@@ -1,0 +1,12 @@
+D:\WorkSpace\github\oeip\x64\Release\OeipCommon.dll
+D:\WorkSpace\github\oeip\x64\Release\OeipCommon.pdb
+D:\WorkSpace\github\oeip\OeipCommon\obj\Release\OeipCommon.csproj.CopyComplete
+D:\WorkSpace\github\oeip\OeipCommon\obj\Release\OeipCommon.dll
+D:\WorkSpace\github\oeip\OeipCommon\obj\Release\OeipCommon.pdb
+D:\WorkSpace\github\oeip\OeipCommon\obj\Release\OeipCommon.csprojAssemblyReference.cache
+E:\XieHui\XieHui1\win_live\LiveManage\x64\Release\OeipCommon.dll
+E:\XieHui\XieHui1\win_live\LiveManage\x64\Release\OeipCommon.pdb
+E:\XieHui\XieHui1\win_live\LiveManage\OeipCommon\obj\Release\OeipCommon.csproj.CoreCompileInputs.cache
+E:\XieHui\XieHui1\win_live\LiveManage\OeipCommon\obj\Release\OeipCommon.csproj.CopyComplete
+E:\XieHui\XieHui1\win_live\LiveManage\OeipCommon\obj\Release\OeipCommon.dll
+E:\XieHui\XieHui1\win_live\LiveManage\OeipCommon\obj\Release\OeipCommon.pdb
